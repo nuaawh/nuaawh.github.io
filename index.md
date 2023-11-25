@@ -1,5 +1,5 @@
 ---
-layout: default
+(https://github.githubassets.com/images/icons/emoji/octocat.png) layout: default
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
